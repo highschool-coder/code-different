@@ -1,4 +1,3 @@
-# code-different
-## the main repository, coding for any dialect, contributions welcome
-> this is where the the releases website, and documents will be
-
+# the main repository, coding for any dialect, contributions are welcome
++ This repository is where the releases, website, and documents will live
+## to edit translations for 
